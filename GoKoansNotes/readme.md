@@ -1,38 +1,9 @@
 # Go Koans Notes
 
-_Click [here]() to see the full go koans._
+_Click [here](https://github.com/cdarwin/go-koans) to see the full uncompleted go koans._
 
 ## Basics
-```go
-package go_koans
+Click [here](1_basics.go) to see my solution.
 
-func aboutBasics() {
-    assert(true == true)  // what is truth?
-    assert(true != false) // in it there is nothing false
-
-    var i int = 1
-    assert(i == 1.0000000000000000000000000000000000000) // precision is in the eye of the beholder
-
-    assert(5%2 == 1)
-    assert(5*2 == 10)
-    assert(5^2 == 7) // xor
-
-    var x int
-    assert(x == 0) // zero values are valued in Go
-
-    var f float32
-    assert(f == 0.0) // for types of all types
-
-    var s string
-    assert(s == "") // both typical or atypical types
-
-    var c struct {
-        x int
-        f float32
-        s string
-    }
-    assert(c.x == 0)     // and types within composite types
-    assert(c.f == 0.0) // which match the other types
-    assert(c.s == "")  // in a typical way
-}
-```
+## Strings
+Click [here](2_strings.go) to see my solution.
