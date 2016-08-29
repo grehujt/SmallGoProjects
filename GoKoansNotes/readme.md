@@ -7,3 +7,7 @@ Click [here](1_basics.go) to see my solution.
 
 ## Strings
 Click [here](2_strings.go) to see my solution.
+
+## Arrays
+Click [here](3_arrays.go) to see my solution.
+_more on array: click [here](https://blog.golang.org/slices)._
