@@ -11,3 +11,6 @@ Click [here](2_strings.go) to see my solution.
 ## Arrays
 Click [here](3_arrays.go) to see my solution.
 _more on array: click [here](https://blog.golang.org/slices)._
+
+## Slices
+Click [here](4_slices.go) to see my solution.
